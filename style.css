@@ -10,7 +10,7 @@ body {
     background-color: var(--bg);
     color: var(--text);
     margin: 40px;
-    padding: 0;
+    margin-right: 60px;
 }
 
 .header {
